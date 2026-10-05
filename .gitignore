@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 解包/合并工作目录（不要提交）
+old/
+new/
+merged/
+*.asar
+*.asar.new
+*.bak

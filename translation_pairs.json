@@ -1,0 +1,666 @@
+[
+ {
+  "en": "No localised version",
+  "zh": "无本地化版本"
+ },
+ {
+  "en": "Add localisation",
+  "zh": "添加本地化"
+ },
+ {
+  "en": "Edit localisation",
+  "zh": "编辑本地化"
+ },
+ {
+  "en": "Remove localisation",
+  "zh": "移除本地化"
+ },
+ {
+  "en": "Add an entry",
+  "zh": "添加条目"
+ },
+ {
+  "en": "Add a new localisation key",
+  "zh": "添加新本地化键"
+ },
+ {
+  "en": "Edit the",
+  "zh": "编辑"
+ },
+ {
+  "en": "Placeholder value",
+  "zh": "占位值"
+ },
+ {
+  "en": "Edit value",
+  "zh": "编辑值"
+ },
+ {
+  "en": "Remove key",
+  "zh": "移除键"
+ },
+ {
+  "en": "Add a new key",
+  "zh": "添加新键"
+ },
+ {
+  "en": "Edit the value for",
+  "zh": "编辑值"
+ },
+ {
+  "en": "Remove value",
+  "zh": "移除值"
+ },
+ {
+  "en": "Not defined",
+  "zh": "未定义"
+ },
+ {
+  "en": "Save",
+  "zh": "保存"
+ },
+ {
+  "en": "Mod localisation",
+  "zh": "模组本地化"
+ },
+ {
+  "en": "Localisation overrides",
+  "zh": "本地化覆盖"
+ },
+ {
+  "en": "Localised lines",
+  "zh": "已本地化的行"
+ },
+ {
+  "en": "Override a localisation file",
+  "zh": "覆盖本地化文件"
+ },
+ {
+  "en": "Package definition",
+  "zh": "包定义"
+ },
+ {
+  "en": "Dependencies",
+  "zh": "依赖"
+ },
+ {
+  "en": "Thumbs",
+  "zh": "缩略图"
+ },
+ {
+  "en": "Partitions",
+  "zh": "分区"
+ },
+ {
+  "en": "Entities",
+  "zh": "实体"
+ },
+ {
+  "en": "Edit name",
+  "zh": "编辑名称"
+ },
+ {
+  "en": "Edit parent",
+  "zh": "编辑父级"
+ },
+ {
+  "en": "Edit type",
+  "zh": "编辑类型"
+ },
+ {
+  "en": "Remove partition",
+  "zh": "移除分区"
+ },
+ {
+  "en": "Add a partition",
+  "zh": "添加分区"
+ },
+ {
+  "en": "Remove entity",
+  "zh": "移除实体"
+ },
+ {
+  "en": "Add an entity",
+  "zh": "添加实体"
+ },
+ {
+  "en": "Remove dependency",
+  "zh": "移除依赖"
+ },
+ {
+  "en": "Add a dependency",
+  "zh": "添加依赖"
+ },
+ {
+  "en": "Supported platforms",
+  "zh": "支持的平台"
+ },
+ {
+  "en": "Content and",
+  "zh": "内容和"
+ },
+ {
+  "en": "Localisation",
+  "zh": "本地化"
+ },
+ {
+  "en": "Other",
+  "zh": "其他"
+ },
+ {
+  "en": "Compatibility",
+  "zh": "兼容性"
+ },
+ {
+  "en": "Override another localisation file",
+  "zh": "覆盖另一个本地化文件"
+ },
+ {
+  "en": "Edit",
+  "zh": "编辑"
+ },
+ {
+  "en": "Edit chunk",
+  "zh": "编辑区块"
+ },
+ {
+  "en": "Runtime",
+  "zh": "运行时"
+ },
+ {
+  "en": "Parent",
+  "zh": "父级"
+ },
+ {
+  "en": "Partition",
+  "zh": "分区"
+ },
+ {
+  "en": "Enable",
+  "zh": "启用"
+ },
+ {
+  "en": "disable mods",
+  "zh": "禁用模组"
+ },
+ {
+  "en": "Configure",
+  "zh": "配置"
+ },
+ {
+  "en": "Author mods",
+  "zh": "创作模组"
+ },
+ {
+  "en": "More information",
+  "zh": "更多信息"
+ },
+ {
+  "en": "Couldn't check for framework updates",
+  "zh": "无法检查框架更新"
+ },
+ {
+  "en": "The framework is up to date (version ",
+  "zh": "框架已是最新版本（"
+ },
+ {
+  "en": "Patch update available",
+  "zh": "补丁更新可用"
+ },
+ {
+  "en": "Feature update available",
+  "zh": "功能更新可用"
+ },
+ {
+  "en": "Major update available",
+  "zh": "主要更新可用"
+ },
+ {
+  "en": "Update available",
+  "zh": "有可用更新"
+ },
+ {
+  "en": "Update",
+  "zh": "更新"
+ },
+ {
+  "en": "Checking for framework updates",
+  "zh": "正在检查框架更新"
+ },
+ {
+  "en": "Couldn't check for mod updates",
+  "zh": "无法检查模组更新"
+ },
+ {
+  "en": "The author of",
+  "zh": "作者"
+ },
+ {
+  "en": "The mod",
+  "zh": "模组"
+ },
+ {
+  "en": "Extracting files",
+  "zh": "正在解压文件"
+ },
+ {
+  "en": "Downloading",
+  "zh": "下载中"
+ },
+ {
+  "en": "Welcome to the",
+  "zh": "欢迎使用"
+ },
+ {
+  "en": "Need help using mods? Consult the pinned post on the",
+  "zh": "需要模组帮助？请查阅"
+ },
+ {
+  "en": "page.",
+  "zh": "页面的置顶帖。"
+ },
+ {
+  "en": "Need help making mods? There's extensive documentation available in the ",
+  "zh": "需要制作模组？"
+ },
+ {
+  "en": "folder.",
+  "zh": "文件夹中有详尽的文档。"
+ },
+ {
+  "en": "Can't find",
+  "zh": "找不到"
+ },
+ {
+  "en": "Can't find the game config",
+  "zh": "找不到游戏配置"
+ },
+ {
+  "en": "folder",
+  "zh": "文件夹中的文件"
+ },
+ {
+  "en": "Reinstall the Mod Manager",
+  "zh": "重新安装模组管理器"
+ },
+ {
+  "en": "Invalid mod",
+  "zh": "无效模组"
+ },
+ {
+  "en": "Installed via alternate means",
+  "zh": "通过其他方式安装"
+ },
+ {
+  "en": "Error and performance reporting",
+  "zh": "错误和性能报告"
+ },
+ {
+  "en": "Yes",
+  "zh": "是"
+ },
+ {
+  "en": "No",
+  "zh": "否"
+ },
+ {
+  "en": "Developer mode",
+  "zh": "开发者模式"
+ },
+ {
+  "en": "I'm a mod developer",
+  "zh": "我是模组开发者"
+ },
+ {
+  "en": "I'm a mod user",
+  "zh": "我是模组使用者"
+ },
+ {
+  "en": "Updating the framework",
+  "zh": "正在更新框架"
+ },
+ {
+  "en": "Updating",
+  "zh": "正在更新"
+ },
+ {
+  "en": "Updating the mod",
+  "zh": "正在更新模组"
+ },
+ {
+  "en": "CANNOT AUTOMATICALLY UPDATE",
+  "zh": "无法自动更新"
+ },
+ {
+  "en": "Edit this mod",
+  "zh": "编辑此模组"
+ },
+ {
+  "en": "Mod Authoring",
+  "zh": "模组创作"
+ },
+ {
+  "en": "View the documentation",
+  "zh": "查看文档"
+ },
+ {
+  "en": "Remove author",
+  "zh": "移除作者"
+ },
+ {
+  "en": "Manifest",
+  "zh": "清单"
+ },
+ {
+  "en": "Edit mod name",
+  "zh": "编辑模组名称"
+ },
+ {
+  "en": "Edit mod description",
+  "zh": "编辑模组描述"
+ },
+ {
+  "en": "Add an author",
+  "zh": "添加作者"
+ },
+ {
+  "en": "Mod version",
+  "zh": "模组版本"
+ },
+ {
+  "en": "Invalid version",
+  "zh": "无效版本"
+ },
+ {
+  "en": "Targeted framework version",
+  "zh": "目标框架版本"
+ },
+ {
+  "en": "Update check URL",
+  "zh": "更新检查地址"
+ },
+ {
+  "en": "Edit the mod name",
+  "zh": "编辑模组名称"
+ },
+ {
+  "en": "Edit the mod description",
+  "zh": "编辑模组描述"
+ },
+ {
+  "en": "Add a mod author",
+  "zh": "添加模组作者"
+ },
+ {
+  "en": "Extremely good description",
+  "zh": "极好的描述"
+ },
+ {
+  "en": "Example",
+  "zh": "示例"
+ },
+ {
+  "en": "Set group",
+  "zh": "设置分组"
+ },
+ {
+  "en": "Enabled by default",
+  "zh": "默认启用"
+ },
+ {
+  "en": "Set tooltip",
+  "zh": "设置提示"
+ },
+ {
+  "en": "Remove tooltip",
+  "zh": "移除提示"
+ },
+ {
+  "en": "Set thumbnail",
+  "zh": "设置缩略图"
+ },
+ {
+  "en": "Remove thumbnail",
+  "zh": "移除缩略图"
+ },
+ {
+  "en": "Set condition",
+  "zh": "设置条件"
+ },
+ {
+  "en": "Edit option name",
+  "zh": "编辑选项名称"
+ },
+ {
+  "en": "Type of option",
+  "zh": "选项类型"
+ },
+ {
+  "en": "Edit the option name",
+  "zh": "编辑选项名称"
+ },
+ {
+  "en": "Edit the option group",
+  "zh": "编辑选项分组"
+ },
+ {
+  "en": "Edit the option tooltip",
+  "zh": "编辑选项提示"
+ },
+ {
+  "en": "Edit the option condition",
+  "zh": "编辑选项条件"
+ },
+ {
+  "en": "None",
+  "zh": "无"
+ },
+ {
+  "en": "Italic",
+  "zh": "斜体"
+ },
+ {
+  "en": "Bold",
+  "zh": "粗体"
+ },
+ {
+  "en": "Underline",
+  "zh": "下划线"
+ },
+ {
+  "en": "Back",
+  "zh": "返回"
+ },
+ {
+  "en": "Go to Index",
+  "zh": "返回索引"
+ },
+ {
+  "en": "Info",
+  "zh": "信息"
+ },
+ {
+  "en": "Disable",
+  "zh": "禁用"
+ },
+ {
+  "en": "Your reporting ",
+  "zh": "你的报告"
+ },
+ {
+  "en": " is",
+  "zh": "是"
+ },
+ {
+  "en": "Information",
+  "zh": "信息"
+ },
+ {
+  "en": "Skip intro",
+  "zh": "跳过开场动画"
+ },
+ {
+  "en": "Copy to clipboard",
+  "zh": "复制到剪贴板"
+ },
+ {
+  "en": "Show less",
+  "zh": "收起"
+ },
+ {
+  "en": "Show more",
+  "zh": "展开"
+ },
+ {
+  "en": "Clear search input",
+  "zh": "清除搜索输入"
+ },
+ {
+  "en": "Arguments",
+  "zh": "参数"
+ },
+ {
+  "en": "Add a Mod",
+  "zh": "添加模组"
+ },
+ {
+  "en": "Delete",
+  "zh": "删除"
+ },
+ {
+  "en": "Apply",
+  "zh": "应用"
+ },
+ {
+  "en": "Adjust this mod's settings",
+  "zh": "调整此模组的设置"
+ },
+ {
+  "en": "Are you sure you want to permanently remove the",
+  "zh": "确定要永久移除"
+ },
+ {
+  "en": "Warning",
+  "zh": "警告"
+ },
+ {
+  "en": "Error",
+  "zh": "错误"
+ },
+ {
+  "en": "Deploy unsuccessful",
+  "zh": "部署失败"
+ },
+ {
+  "en": "Potential issues in deployment",
+  "zh": "部署中的潜在问题"
+ },
+ {
+  "en": "Deploy successful",
+  "zh": "部署成功"
+ },
+ {
+  "en": "Close",
+  "zh": "关闭"
+ },
+ {
+  "en": "Upload mod list and log",
+  "zh": "上传模组列表和日志"
+ },
+ {
+  "en": "Available Mods",
+  "zh": "可用模组"
+ },
+ {
+  "en": "To Be Applied",
+  "zh": "待应用"
+ },
+ {
+  "en": "Enabled Mods",
+  "zh": "已启用模组"
+ },
+ {
+  "en": "Filter available mods",
+  "zh": "筛选可用模组"
+ },
+ {
+  "en": "Filter enabled mods",
+  "zh": "筛选已启用模组"
+ },
+ {
+  "en": "Delete mod",
+  "zh": "删除模组"
+ },
+ {
+  "en": "Delete the mod",
+  "zh": "删除该模组"
+ },
+ {
+  "en": "Cancel",
+  "zh": "取消"
+ },
+ {
+  "en": "Applying your mods",
+  "zh": "正在应用模组"
+ },
+ {
+  "en": "Mod name",
+  "zh": "模组名称"
+ },
+ {
+  "en": "Amazing",
+  "zh": "出色的"
+ },
+ {
+  "en": "Mod",
+  "zh": "模组"
+ },
+ {
+  "en": "Installing",
+  "zh": "正在安装"
+ },
+ {
+  "en": "Installing the mod",
+  "zh": "正在安装模组"
+ },
+ {
+  "en": "Invalid framework",
+  "zh": "无效的框架"
+ },
+ {
+  "en": "Not a mod",
+  "zh": "不是模组"
+ },
+ {
+  "en": "Mod contains scripts",
+  "zh": "模组包含脚本"
+ },
+ {
+  "en": "Mod contains",
+  "zh": "模组包含"
+ },
+ {
+  "en": "plugins",
+  "zh": "插件"
+ },
+ {
+  "en": "Incorrectly installed mod",
+  "zh": "安装不正确的模组"
+ },
+ {
+  "en": "Log uploaded",
+  "zh": "日志已上传"
+ },
+ {
+  "en": "Downloading the mod",
+  "zh": "正在下载模组"
+ },
+ {
+  "en": "No options enabled",
+  "zh": "未启用任何选项"
+ },
+ {
+  "en": "Mod Settings",
+  "zh": "模组设置"
+ }
+]
